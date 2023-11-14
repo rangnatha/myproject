@@ -1,0 +1,20 @@
+table
+{
+    border-collapse: collapse;
+
+
+    
+}
+tr{
+    text-align: center;
+    color: blueviolet;
+    background-color: bisque;
+}
+h1
+{
+    color: red;
+}
+th
+{
+color: black; background-color: green;
+}
